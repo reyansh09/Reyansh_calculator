@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Reyansh-Calculator</string>
+    <string name="Plus">+</string>
+    <string name="enter_second_number">Enter Second Number</string>
+    <string name="enter_first_number">Enter First Number</string>
+    <string name="divide">/</string>
+    <string name="multiply">*</string>
+    <string name="subtract">-</string>
+</resources>
